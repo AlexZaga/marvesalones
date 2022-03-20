@@ -987,6 +987,7 @@ form#armatupaquete button:hover {
   float: right;
   padding-left: .5rem;
   font-size: 13px;
+  color: #fffefe;
 }
 
 @media (max-width: 768px) {
