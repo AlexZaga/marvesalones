@@ -304,12 +304,12 @@ margin-bottom: 0;
 /* Tamaño parrafo*/
 
 .hero-content p {
-  font-size: 15px;
+  font-size: 17px;
   color: #fff;
   margin-bottom: 300px;
   font-family: 'Bellota Text', cursive;
-    letter-spacing: 1px;
-    margin: 6%;    
+  letter-spacing: 1px;
+  margin: 8%;    
 
 }
 
@@ -470,7 +470,7 @@ font-family: 'Rampart One', cursive;
 }
 
 .section-titlepaquetesocial h2 {
-	font-size: 50px;
+  font-size: 5vw;
   color: #0c3c53;
   line-height: 50px;
   font-family: 'Sail', cursive;
