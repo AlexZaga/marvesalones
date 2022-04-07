@@ -517,25 +517,8 @@ margin:auto;
 Galería de imagenes
 --------------------------------------------- 
 */
-div.img {
-  margin: 1px;
-  float: left;
-  width: 100%;
-  max-width: 280px;
-  height: auto;
-}	
-
-
-div.img:hover {
-  padding: 10px;
-
-}
-
 img { width: 100%};
-
 /* end galeria*/
-
-
 
 /* 
 ---------------------------------------------
@@ -693,25 +676,6 @@ label {
 contact - ARma tu paquete kids y social 
 --------------------------------------------- 
 */
-
-.fill-form .iconpaquete {
-  text-align: center;
-  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
-  border-radius: 23px;
-  padding: 22px 8px;
-  padding-bottom: 0.2%;
-  background-image: linear-gradient(
-    to right,
-    rgba(255, 68, 0, 0.596),
-    rgba(255, 166, 0, 0.589),
-    rgba(255, 217, 0, 0.678),
-    rgba(144, 238, 144, 0.664),
-    rgba(0, 255, 255, 0.651),
-    rgba(30, 143, 255, 0.658),
-    rgba(147, 112, 216, 0.705),
-    rgba(255, 105, 180, 0.705),
-    rgba(255, 68, 0, 0.685));  transition: 0.5s;  
-}
 
 .fill-form .iconpaquetesocial {
   text-align: center;
